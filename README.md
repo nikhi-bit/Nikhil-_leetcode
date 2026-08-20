@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0875-koko-eating-bananas) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0001-two-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
