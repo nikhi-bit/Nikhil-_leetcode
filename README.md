@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Greedy
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
