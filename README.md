@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0263-ugly-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
