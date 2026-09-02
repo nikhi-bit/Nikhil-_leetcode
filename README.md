@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0875-koko-eating-bananas) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
@@ -123,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
