@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
