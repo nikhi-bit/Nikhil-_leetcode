@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0658-find-k-closest-elements) |
 | [1089-duplicate-zeros](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/1089-duplicate-zeros) |
 ## String
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3875-construct-uniform-parity-array-i) |
