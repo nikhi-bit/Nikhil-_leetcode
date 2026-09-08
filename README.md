@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0410-split-array-largest-sum) |
 ## Math
@@ -160,8 +162,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
