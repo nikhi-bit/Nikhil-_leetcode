@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0410-split-array-largest-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0410-split-array-largest-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
