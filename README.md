@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0088-merge-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0202-happy-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0658-find-k-closest-elements) |
@@ -178,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
