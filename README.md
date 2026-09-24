@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2523-closest-prime-numbers-in-range](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikhi-bit/Nikhil-_leetcode/tree/master/3875-construct-uniform-parity-array-i) |
